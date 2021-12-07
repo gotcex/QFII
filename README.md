@@ -6,9 +6,9 @@ This project will provide a platform to help global investors to operate and con
   1).Crossing board order management system (OMS)
   2).Crossing board execution management system (EMS)
   3).Trading book and position management
-  4).Support FIX (FIXFPML), STEP, Binary, FAST protocol. Smart routing between major Chinese stock markets and US markets
-  5).Intergration capabilities with Bloomberg, Instinet, Tradeweb and so on
-  6).Integration with OTC market, fund market
+  4).Support FIX (FIXFPML), STEP, Binary and FAST protocols. provide smart routing between major Chinese stock markets and global markets
+  5).Intergration with Bloomberg, Instinet, Tradeweb and so on
+  6).Integration with OTC market, fund market and so on
 2. Middle Office
   1).General middle office router
   2).Trade allocation and confirmation by using Zero Knowledge Proof technology

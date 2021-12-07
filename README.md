@@ -21,3 +21,6 @@ This project will provide a platform to help global investors to operate and con
 4. Account Master and data dictionary mapping crossing board
 5. Security Master and data dictionary mapping crossing board
 6. Entity Master and data dictionary mapping crossing board
+
+# What is QFII?
+QFII stands for Qualified Foreign Institutional Investors. The QFII Program is the certification system which allows licensed professional foreign investors to trade Ren Min Bi (RMB) denominated securities in China's mainland stock exchanges by converting foreign currency to RMB within the quota obtained from relevant authorities.

@@ -40,3 +40,4 @@ This project will provide a platform to help global investors to operate and con
 
 # What is QFII?
 QFII stands for Qualified Foreign Institutional Investors. The QFII Program is the certification system which allows licensed professional foreign investors to trade Ren Min Bi (RMB) denominated securities in China's mainland stock exchanges by converting foreign currency to RMB within the quota obtained from relevant authorities.
+http://english.sse.com.cn/access/stockconnect/settlement/

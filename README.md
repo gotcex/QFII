@@ -17,13 +17,15 @@ This project will provide a platform to help global investors to operate and con
    6).Integration with OTC market, fund market and so on
 
 2. Middle Office
+
    1).General middle office router
    
    2).Trade allocation and confirmation by using Zero Knowledge Proof technology
    
    3).Pricing, valuation and position keeping
    
-3. Back Office
+2. Back Office
+
    1).Integration with clearance and settlement services
    
    2).Link to payment services
@@ -32,9 +34,9 @@ This project will provide a platform to help global investors to operate and con
    
    4).Integration with institutional clients in China
    
-4. Account Master and data dictionary mapping crossing board
-5. Security Master and data dictionary mapping crossing board
-6. Entity Master and data dictionary mapping crossing board
+3. Account Master and data dictionary mapping crossing board
+4. Security Master and data dictionary mapping crossing board
+5. Entity Master and data dictionary mapping crossing board
 
 # What is QFII?
 QFII stands for Qualified Foreign Institutional Investors. The QFII Program is the certification system which allows licensed professional foreign investors to trade Ren Min Bi (RMB) denominated securities in China's mainland stock exchanges by converting foreign currency to RMB within the quota obtained from relevant authorities.

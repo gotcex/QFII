@@ -4,7 +4,7 @@
 This project will provide a platform to help global investors to operate and connect to Chinese market. It will includes the following sub-projects or modules to fulfill the vision step by step:
 1. Front Office
 
-  1).Crossing board order management system (OMS)
+   1).Crossing board order management system (OMS)
 
   2).Crossing board execution management system (EMS)
 

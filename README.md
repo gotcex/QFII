@@ -3,12 +3,19 @@
 # Vision
 This project will provide a platform to help global investors to operate and connect to Chinese market. It will includes the following sub-projects or modules to fulfill the vision step by step:
 1. Front Office
-  1).Crossing board order management system (OMS)[^1]
+
+  1).Crossing board order management system (OMS)
+
   2).Crossing board execution management system (EMS)
+
   3).Trading book and position management
+
   4).Support FIX (FIXFPML), STEP, Binary and FAST protocols. provide smart routing between major Chinese stock markets and global markets
+
   5).Intergration with Bloomberg, Instinet, Tradeweb and so on
+
   6).Integration with OTC market, fund market and so on
+
 2. Middle Office
   1).General middle office router
   2).Trade allocation and confirmation by using Zero Knowledge Proof technology
